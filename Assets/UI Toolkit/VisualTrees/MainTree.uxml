@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Чтобы двигаться вправо удерживайте &lt;sprite index=8&gt;. &#10;Чтобы двигаться влево удерживайте &lt;sprite name=&quot;dl&quot;&gt;.&#10;Чтобы прыгнуть нажмите &lt;sprite=33&gt;.&#10;Для взаимодействия нажмите &lt;sprite=&quot;all_input&quot; index=1&gt;.&#10;Можно использовать цвета &lt;sprite=&quot;all_input&quot; index=1 color=#FF0000&gt;." enable-rich-text="true" emoji-fallback-support="true" name="Label" style="font-size: 40px; position: absolute; top: 437px;"/>
+</ui:UXML>

@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.tbarendt.tmprospriteatlas": {
+      "version": "https://github.com/TBarendt/TMProSpriteAtlas.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d760a901ca56b807142918e115d1fd62fcd1fff5"
+    },
     "com.unity.2d.animation": {
       "version": "16.0.0",
       "depth": 0,
